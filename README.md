@@ -32,7 +32,7 @@
 ---
 
 ### 📂 **Main Repositories**
-🚀 **Neural Networks from Scratch**  
+🚀 **AI from Scratch**  
 🔹 [Classics algorithms of machine learning](https://github.com/OT1devl/Machine-Learning-Algorithms)  
 🔹 [Deep Learning from scratch](https://github.com/OT1devl/Deep-Learning)  
 
