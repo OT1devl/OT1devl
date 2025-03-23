@@ -15,7 +15,6 @@
 - 👀 I’m interested in Programming, Machine Learning, AI, Cybersecurity and Low-Level Computing.
 - 🌱 I’m currently learning Assembly and implementing neural networks in C++
 - 💞️ I’m looking for a job in a company where I can improve my skills.
-- 📫 How to reach me ...
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I built a logic circuit using aluminum foil, paper, and random materials just for fun.
 
@@ -35,7 +34,7 @@
 ### 📂 **Main Repositories**
 🚀 **Neural Networks from Scratch**  
 🔹 [Classics algorithms of machine learning](https://github.com/OT1devl/Machine-Learning-Algorithms)  
-🔹 [Transformer Implementation in C++](https://github.com/OT1devl/Deep-Learning)  
+🔹 [Deep Learning from scratch](https://github.com/OT1devl/Deep-Learning)  
 
 ---
 
@@ -48,9 +47,10 @@
 ---
 
 ### 🚀 **Contact**
-📧 **Email:** *otidevv1@gmail.com*  
+📧 **Email:** *[otidevv1@gmail.com]*  
 
 ---
+
 
 <!---
 OT1devl/OT1devl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
