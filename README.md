@@ -14,8 +14,8 @@
 - 👋 Hi, I’m **@OT1devl**  
 - 👀 Passionate about Programming, Machine Learning, AI, Cybersecurity, and Low-Level Computing.  
 - 🌱 Currently exploring **neural networks in C++** and refining AI models from scratch.  
-- 💡 Interested in AI research, cryptography, and building efficient computing systems.  
-- 🎯 Goal: To push the boundaries of AI and low-level computing.  
+- 💡 Interested in AI and low-level computing.  
+- 🎯 Goal: teaching how to do AI without relying on external libraries.  
 - ⚡ Fun fact: I built a logic circuit using aluminum foil, paper, and random materials—just for fun!  
 
 ---
