@@ -44,7 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OT1devl&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OT1devl&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OT1devl&layout=compact&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OT1devl&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OT1devl&theme=radical" />
 </p>
 
