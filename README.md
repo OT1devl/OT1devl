@@ -13,8 +13,8 @@
 ## 📜 About Me  
 - 👋 Hi, I’m **@OT1devl**
 - 👀 Passionate about Programming, Machine Learning, AI, Cybersecurity, and Low-Level Computing.
-- 🌱 Currently exploring **Assembly** and implementing **neural networks in C++**.
-- 💡 Interested in AI research, cryptography, and building efficient computing systems from scratch.
+- 🌱 Currently exploring **neural networks in C++** and refining AI models from scratch.
+- 💡 Interested in AI research, cryptography, and building efficient computing systems.
 - 🎯 Goal: To push the boundaries of AI and low-level computing.
 - ⚡ Fun fact: I built a logic circuit using aluminum foil, paper, and random materials—just for fun!
 
@@ -24,18 +24,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Main Repositories  
 🔹 [Classic Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
-🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)  
-🔹 [Custom AI Models in NumPy](https://github.com/OT1devl) (More coming soon!)
+🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)
+🔹 [Data Structures from Scratch](https://github.com/OT1devl) (More coming soon!)
+
+🔹 [OT Query Language](https://github.com/OT1devl) (More coming soon!)
+🔹 [OT Programming Language](https://github.com/OT1devl) (More coming soon!)
+
 
 ---
 
@@ -49,6 +53,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=radical&no-frame=false&no-bg=true&margin-w=5&column=6" alt="Trophies" />
 </p>
+
+---
+
+## 🚀 Contact  
+<p align="center">
+  <a href="mailto:otidevv1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-otidevv1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt
 
 ---
 
