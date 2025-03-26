@@ -11,12 +11,12 @@
 ---
 
 ## 📜 About Me  
-- 👋 Hi, I’m **@OT1devl**
-- 👀 Passionate about Programming, Machine Learning, AI, Cybersecurity, and Low-Level Computing.
-- 🌱 Currently exploring **neural networks in C++** and refining AI models from scratch.
-- 💡 Interested in AI research, cryptography, and building efficient computing systems.
-- 🎯 Goal: To push the boundaries of AI and low-level computing.
-- ⚡ Fun fact: I built a logic circuit using aluminum foil, paper, and random materials—just for fun!
+- 👋 Hi, I’m **@OT1devl**  
+- 👀 Passionate about Programming, Machine Learning, AI, Cybersecurity, and Low-Level Computing.  
+- 🌱 Currently exploring **neural networks in C++** and refining AI models from scratch.  
+- 💡 Interested in AI research, cryptography, and building efficient computing systems.  
+- 🎯 Goal: To push the boundaries of AI and low-level computing.  
+- ⚡ Fun fact: I built a logic circuit using aluminum foil, paper, and random materials—just for fun!  
 
 ---
 
@@ -34,12 +34,10 @@
 
 ## 📂 Main Repositories  
 🔹 [Classic Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
-🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)
-🔹 [Data Structures from Scratch](https://github.com/OT1devl) (More coming soon!)
-
-🔹 [OT Query Language](https://github.com/OT1devl) (More coming soon!)
-🔹 [OT Programming Language](https://github.com/OT1devl) (More coming soon!)
-
+🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)  
+🔹 [Data Structures from Scratch](https://github.com/OT1devl) (More coming soon!)  
+🔹 [OT Query Language](https://github.com/OT1devl) (More coming soon!)  
+🔹 [OT Programming Language](https://github.com/OT1devl) (More coming soon!)  
 
 ---
 
@@ -53,13 +51,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=radical&no-frame=false&no-bg=true&margin-w=5&column=6" alt="Trophies" />
 </p>
-
----
-
-## 🚀 Contact  
-<p align="center">
-  <a href="mailto:otidevv1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-otidevv1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt
 
 ---
 
