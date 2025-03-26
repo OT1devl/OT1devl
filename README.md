@@ -43,12 +43,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OT1devl&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OT1devl&theme=radical" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OT1devl&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OT1devl&layout=compact&theme=radical" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=radical&margin-w=15&row=2&column=4"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OT1devl&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OT1devl&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OT1devl&theme=radical" />
 </p>
 
 ---
