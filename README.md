@@ -41,16 +41,28 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OT1devl&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OT1devl&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
+### 🚀 Contribution Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OT1devl&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OT1devl&theme=radical" alt="Profile Details" width="48%"/>
+</p>
+
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=radical&no-frame=false&no-bg=true&margin-w=5&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
+
+### 📅 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OT1devl&theme=radical" alt="GitHub Activity Graph"/>
+</p>
+
 
 ---
 
