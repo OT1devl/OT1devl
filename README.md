@@ -1,5 +1,5 @@
 <h1 align="center">OT1devl</h1>
-<h3 align="center">👾 Machine Learning | AI | Cybersecurity | Low-Level Computing</h3>
+<h3 align="center">👾 Machine Learning | AI | Cybersecurity | Low-Level Computing 🖥️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OT1devl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -29,6 +29,7 @@
   
   <!-- Libraries & Frameworks -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/CuPy-61D6A2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
