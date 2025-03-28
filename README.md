@@ -60,9 +60,8 @@
 
 ### 📅 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OT1devl&theme=tokyonight" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OT1devl&theme=github_dark" alt="GitHub Activity Graph"/>
 </p>
-
 
 ---
 
