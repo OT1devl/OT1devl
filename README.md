@@ -1,5 +1,5 @@
 <h1 align="center">OT1devl</h1>
-<h3 align="center">🚀 Machine Learning | AI | Cybersecurity | Low-Level Computing</h3>
+<h3 align="center">👾 Machine Learning | AI | Cybersecurity | Low-Level Computing</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OT1devl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+
 </p>
 
 ---
