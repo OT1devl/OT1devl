@@ -58,11 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=tokyonight&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
-### 📅 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OT1devl&theme=github_dark" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 ## 🚀 Contact  
