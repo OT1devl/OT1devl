@@ -52,10 +52,12 @@
 
 ## 📂 Repositories  
 🔹 [Classic Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
-🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)  
+🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)
+🔹 [Medical AI with numpy](https://github.com/OT1devl/Deep-Learning)  
 🔹 [Data Structures from Scratch](https://github.com/OT1devl) (Coming soon!)  
 🔹 [OT Query Language](https://github.com/OT1devl) (Coming soon!)  
-🔹 [OT Programming Language](https://github.com/OT1devl) (Coming soon!)  
+🔹 [OT Programming Language](https://github.com/OT1devl) (Coming soon!)
+
 
 ---
 
