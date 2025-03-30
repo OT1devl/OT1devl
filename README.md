@@ -8,8 +8,6 @@
   <a href="https://github.com/OT1devl?tab=followers">
     <img src="https://img.shields.io/github/followers/OT1devl?label=Followers&style=social" alt="Followers" />
   </a>
-  <!-- Language Breakdown -->
-  <img src="https://img.shields.io/github/languages/count/OT1devl/Machine-Learning-Algorithms?style=flat" alt="Language Breakdown" />
 </p>
 
 
