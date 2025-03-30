@@ -54,13 +54,11 @@
 ### 🔹 [Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
 Explore classic machine learning algorithms implemented from scratch using NumPy and Python.  
 
-### 🔹 Deep Learning from Scratch  
+### 🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)  
 A deep dive into neural networks, building models like CNNs and RNNs from the ground up.  
-[Repository Link](https://github.com/OT1devl/Deep-Learning)
 
-### 🔹 Pneumonia Diagnosis with NumPy  
+### 🔹 [Pneumonia Diagnosis with NumPy](https://github.com/OT1devl/Pneumonia-diagnosis-with-numpy)  
 A project to diagnose pneumonia using a custom deep learning model built with NumPy.  
-[Repository Link](https://github.com/OT1devl/Pneumonia-diagnosis-with-numpy)
 
 ---
 
