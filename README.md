@@ -4,20 +4,10 @@
 <p align="center">
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=OT1devl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
   <!-- GitHub followers -->
   <a href="https://github.com/OT1devl?tab=followers">
     <img src="https://img.shields.io/github/followers/OT1devl?label=Followers&style=social" alt="Followers" />
   </a>
-
-  <!-- Number of public repositories -->
-  <img src="https://img.shields.io/github/repo-count/OT1devl?color=blue&label=Public%20Repos" alt="Public Repos" />
-
-  <!-- Most used languages in the profile -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OT1devl&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-  <!-- GitHub streak (consecutive commit days) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OT1devl&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
