@@ -50,7 +50,7 @@
 
 ---
 
-## 🎓 Educational Purpose  
+## 🎓 Educational  
 
 ### 🔹 [Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
 Explore classic machine learning algorithms implemented from scratch using NumPy and Python.  
