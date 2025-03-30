@@ -51,13 +51,17 @@
 ---
 
 ## 📂 Repositories  
-🔹 [Classic Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
-🔹 [Deep Learning from Scratch](https://github.com/OT1devl/Deep-Learning)  
-🔹 [Pneumonia diagnosis with numpy](https://github.com/OT1devl/Pneumonia-diagnosis-with-numpy)  
-🔹 [Data Structures from Scratch](https://github.com/OT1devl) (Coming soon!)  
-🔹 [OT Query Language](https://github.com/OT1devl) (Coming soon!)  
-🔹 [OT Programming Language](https://github.com/OT1devl) (Coming soon!)
+### 🔹 Machine Learning Algorithms  
+Explore classic machine learning algorithms implemented from scratch using NumPy and Python.  
+[Repository Link](https://github.com/OT1devl/Machine-Learning-Algorithms)
 
+### 🔹 Deep Learning from Scratch  
+A deep dive into neural networks, building models like CNNs and RNNs from the ground up.  
+[Repository Link](https://github.com/OT1devl/Deep-Learning)
+
+### 🔹 Pneumonia Diagnosis with NumPy  
+A project to diagnose pneumonia using a custom deep learning model built with NumPy.  
+[Repository Link](https://github.com/OT1devl/Pneumonia-diagnosis-with-numpy)
 
 ---
 
