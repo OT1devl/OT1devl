@@ -51,9 +51,8 @@
 ---
 
 ## 📂 Repositories  
-### 🔹 Machine Learning Algorithms  
+### 🔹 [Machine Learning Algorithms](https://github.com/OT1devl/Machine-Learning-Algorithms)  
 Explore classic machine learning algorithms implemented from scratch using NumPy and Python.  
-[Repository Link](https://github.com/OT1devl/Machine-Learning-Algorithms)
 
 ### 🔹 Deep Learning from Scratch  
 A deep dive into neural networks, building models like CNNs and RNNs from the ground up.  
