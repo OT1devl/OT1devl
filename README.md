@@ -66,6 +66,9 @@ A deep dive into neural networks, building models like CNNs and RNNs from the gr
 ### 🔹 [Pneumonia Diagnosis with NumPy](https://github.com/OT1devl/Pneumonia-diagnosis-with-numpy)  
 A project to diagnose pneumonia using a custom deep learning model built with NumPy.
 
+### 🔹 [Brain Tumor Diagnosis with NumPy](https://github.com/OT1devl/Brain-tumor-diagnosis-with-numpy)  
+A project focused on detecting brain tumors using machine learning techniques implemented entirely with NumPy.
+
 ---
 
 ## 📊 GitHub Stats  
