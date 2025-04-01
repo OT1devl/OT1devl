@@ -98,4 +98,10 @@ A project focused on detecting brain tumors using machine learning techniques im
   <a href="https://www.kaggle.com/ot1c55">
     <img src="https://img.shields.io/badge/Kaggle-ot1c55-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <a href="https://github.com/OT1devl">
+    <img src="https://img.shields.io/badge/GitHub-OT1devl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/597843357875568642">
+    <img src="https://img.shields.io/badge/Discord-OT1devl-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
