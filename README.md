@@ -102,6 +102,6 @@ A project focused on detecting brain tumors using machine learning techniques im
     <img src="https://img.shields.io/badge/Discord-OT1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.reddit.com/user/OTi-c">
-  <img src="https://img.shields.io/badge/Reddit-OT1-c-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  <img src="https://img.shields.io/badge/Reddit-OT1c-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </p>
