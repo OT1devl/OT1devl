@@ -95,4 +95,7 @@ A project focused on detecting brain tumors using machine learning techniques im
   <a href="mailto:otidevv1@gmail.com">
     <img src="https://img.shields.io/badge/Email-otidevv1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.kaggle.com/ot1c55">
+    <img src="https://img.shields.io/badge/Kaggle-ot1c55-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
