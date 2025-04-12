@@ -10,6 +10,14 @@
   </a>
 </p>
 
+---
+
+<!-- Codewars Badge -->
+<p align="center">
+  <a href="https://www.codewars.com/users/OT1ic">
+    <img src="https://www.codewars.com/users/OT1ic/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
 ---
 
@@ -50,7 +58,6 @@
   
   <!-- Containerization and Cloud -->
 </p>
-
 
 ---
 
@@ -101,11 +108,5 @@ A project focused on detecting brain tumors using machine learning techniques im
   </a>
   <a href="https://discord.com/users/597843357875568642">
     <img src="https://img.shields.io/badge/Discord-OT1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.codewars.com/users/OT1ic">
-    <img src="https://www.codewars.com/users/OT1ic/badges/large" alt="Codewars Badge" />
   </a>
 </p>
