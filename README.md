@@ -99,7 +99,7 @@ A project focused on detecting brain tumors using machine learning techniques im
 </p>
 
 ---
-## 🚀 Contact  
+## 🚀 Contact & Profiles
 <p align="center">
   <a href="mailto:otidevv1@gmail.com">
     <img src="https://img.shields.io/badge/Email-otidevv1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
