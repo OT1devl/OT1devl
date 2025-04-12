@@ -10,20 +10,6 @@
   </a>
 </p>
 
----
-
-<!-- Codewars Badge -->
-<p align="center">
-  <a href="https://www.codewars.com/users/OT1ic">
-    <img src="https://www.codewars.com/users/OT1ic/badges/small" alt="Codewars Badge" />
-  </a>
-  <a href="https://leetcode.com/u/ot1devl/">
-    <img src="https://img.shields.io/badge/LeetCode-ot1devl-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
----
-
 ## 📜 About Me  
 - 👋 Hi, I’m **@OT1devl**  
 - 👀 Passionate about Programming, Machine Learning, AI, Cybersecurity, and Low-Level Computing.  
@@ -101,6 +87,18 @@ A project focused on detecting brain tumors using machine learning techniques im
 
 ---
 
+## 🏆 Programming Challenges & Profiles
+
+<p align="center">
+  <a href="https://www.codewars.com/users/OT1ic">
+    <img src="https://www.codewars.com/users/OT1ic/badges/small" alt="Codewars Badge" />
+  </a>
+  <a href="https://leetcode.com/u/ot1devl/">
+    <img src="https://img.shields.io/badge/LeetCode-ot1devl-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
+
+---
 ## 🚀 Contact  
 <p align="center">
   <a href="mailto:otidevv1@gmail.com">
