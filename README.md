@@ -82,11 +82,12 @@ A project focused on detecting brain tumors using machine learning techniques im
   <img src="https://streak-stats.demolab.com?user=OT1devl&theme=tokyonight" alt="GitHub Streak" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OT1devl&theme=tokyonight" alt="Profile Details" width="48%"/>
 </p>
-
+ 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=OT1devl&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
