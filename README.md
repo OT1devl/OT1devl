@@ -59,7 +59,7 @@ Explore classic machine learning algorithms implemented from scratch using NumPy
 A deep dive into neural networks, building models like CNNs and RNNs from the ground up.  
 
 ### 🔹 [Data Structures from Scratch](https://github.com/OT1devl/Data-Structures)  
-A deep dive into data structures, building implementations like linked lists, stacks, queues, trees, and graphs from scratch.
+Building implementations like linked lists, stacks, queues, trees, and graphs from scratch.
 
 ## 📁 Projects
 
