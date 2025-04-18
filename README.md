@@ -69,6 +69,9 @@ A project to diagnose pneumonia using a custom deep learning model built with Nu
 ### 🔹 [Brain Tumor Diagnosis with NumPy](https://github.com/OT1devl/Brain-tumor-diagnosis-with-numpy)  
 A project focused on detecting brain tumors using machine learning techniques implemented entirely with NumPy.
 
+### 🔹 [Word Moderation Char LVL with NumPy](https://github.com/OT1devl/Word-Moderation-with-numpy)  
+A neural network that classifies words as "good" or "bad" based on character-level analysis. Built from scratch using NumPy and Python.
+
 ### 🔹 [Text-in-Image Generator with NumPy](https://github.com/OT1devl/Image-Text-Generator-with-numpy)
 A creative deep learning project that uses Conditional GANs (cGANs) built entirely with NumPy to generate humanoid-style characters rendered as images.
 
